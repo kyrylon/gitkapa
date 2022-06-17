@@ -1,1 +1,2 @@
-
+let text = "Simple Simon met the Pieman";
+console.log(text);
